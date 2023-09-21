@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 --->
 
-<p>I'm Informatics Student at Pasundan University. I'm looking for opportunity in IT as a FrontEnd Developer and Data Analyst.</p>
+<p>I'm Informatics Student at Pasundan University. I'm looking for opportunity in IT as a FrontEnd Developer and DevOps.</p>
 
-- 🌱 I’m currently learning pandas, and tableau 
+- 🌱 I’m currently learning Linux, and DevOps  
 - 😄 Pronouns: she/her
 
 
