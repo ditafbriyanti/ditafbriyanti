@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 --->
 
-<p>I'm Informatics Student at Pasundan University. I'm looking for opportunity in IT as a FullStack Developer.</p>
+<p>I'm Informatics Student at Pasundan University. I'm looking for opportunity in IT as a Backend Developer.</p>
 
-- 🌱 I’m currently learning MERN Stack.  
+- 🌱 I’m currently learning Go.  
 - 😄 Pronouns: she/her
 
 
